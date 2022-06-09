@@ -2,3 +2,9 @@ Sign up/Sign in
 Select your products
 Add to cart
 Logout
+
+QA
+Practice
+Git push 
+Git Pull
+
